@@ -81,4 +81,4 @@ If you use iPHT, the datasets, or compare against it in your work, please cite:
 
 ## Contact
 
-Othman Alghamdi — School of Computer Science, University of Birmingham.
+Othman Alghamdi — School of Computer Science, University of Birmingham. Email: Othhadi@hotmail.com
