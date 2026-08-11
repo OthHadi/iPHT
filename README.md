@@ -54,7 +54,7 @@ The main parameter is the **neighbourhood radius R**; it is the only physical pa
 
 ## Comparison with other methods
 
-We benchmark iPHT against Torque Clustering, KdMutual, DBSCAN, and 1-DREAM across a range of noise levels. You are welcome to compare your own method against iPHT using the datasets provided here. If you report a comparison against iPHT, please cite our paper.
+We benchmark iPHT against Torque Clustering, KdMutual, DBSCAN, 1-DREAM, DisPerSE, NEXUS ,and COWS across a range of noise levels. You are welcome to compare your own method against iPHT using the datasets provided here. If you report a comparison against iPHT, please cite our paper.
 
 ## Citation
 
