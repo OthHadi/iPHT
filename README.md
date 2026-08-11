@@ -20,7 +20,7 @@ Give it a radius + your (3D) points, and get back labels (`0` = noise) and the s
 
 This code accompanies our KDD 2026 paper:
 
-> O. Alghamdi, M. Canducci, R. Smith, and P. Tiňo.
+> Othman Alghamdi, Marco Canducci, Rory Smith, and Peter Tino.
 > *Iterative Probabilistic Hough Transform: Robust Discovery of Filamentary Structures in High-Noise Regimes.*
 > Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26), 2026.
 > https://doi.org/10.1145/3770855.3818955
